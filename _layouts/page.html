@@ -1,71 +1,12 @@
 ---
 layout: default
 ---
-<!doctype html>
-<html class="no-js">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-		{% include meta.html %}
-		<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Roboto+Mono:300,400|Roboto:300,400,500,700" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/bootstrap.css">
-		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css" />
-	</head>
-	<body>
-		<style>
-		.ratio-bar {
-		    padding-top: 60px!important;
-		    background-color: #5a686c;
-		    color: #f0f0f0;
-		}
-		</style>
-		<header>
-		    <! -- nav start -->
-			{% include nav.html %}
-		    <!-- nav end -->
-			<div class="ratio-bar">
-				<div class="container">
-				    <ul class="list-inline">
-					<li>
-					    <i class="fa fa-user"></i>
-					    <a href="#" title="View my profile">
-						<span class="badge-user group-newbie">
-						Lunar
-						</span>
-					    </a>
-					</li>
-					<li>
-					    <i class="fa fa-group"></i>
-					    <span class="badge-user group-newbie">
-					    User
-					    </span>
-					</li>
-					<li><i class="fa fa-upload text-success"></i>
-					    <a href="#" title="My Uploads">#</a>
-					    925
-					</li>
-					<li><i class="fa fa-comments text-orange"></i>
-					    <a href="#" title="#">#</a>
-					    <!-- 0 -->
-					</li>
-					<li><i class="fa fa-eye"></i>
-					    <a href="#" title="#">#</a>
-					    <span style="color: #00bc63">#</span>
-					</li>
-				    </ul>
-				</div>
-			    </div>
-		</header>
-		<section class="container content" id="content-area">
-			<h1 class="title">
-				{% if page.title %}{{ page.title }} – {% endif %}
-			</h1>
-			<div class="block">
-				{{ content }}
-			</div>
-		</section>
-		
-		{% include footer.html %}	<
-	</body>
-</html>
+
+<article class="page">
+
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
