@@ -3,4 +3,5 @@ layout: page
 title: Course Direcotry
 ---
 
-This is a stub of the course directory.
+<h2>Current Courses:</h2> 
+<h3><a href="./ccna/">CCNA 200-301</a></h3>
