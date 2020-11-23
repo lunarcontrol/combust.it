@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Intro to Networking
+title: Intro to Networking - Chapter Select
 ---
 
-Chapter Select
+Chapters: 
 <button type="button" class="btn btn-primary">1</button>
 <button type="button" class="btn btn-primary">2</button>
 <button type="button" class="btn btn-primary">3</button>
@@ -21,3 +21,4 @@ Chapter Select
 <button type="button" class="btn btn-primary">15</button>
 <button type="button" class="btn btn-primary">16</button>
 <button type="button" class="btn btn-primary">17</button>
+
