@@ -13,21 +13,21 @@ title: Intro to Networking - Chapter Select
 </nav>
 
 Chapters: 
-<a href="#" class="btn btn-info" role="button">1</a>
-<a href="#" class="btn btn-info" role="button">2</a>
-<a href="#" class="btn btn-info" role="button">3</a>
+<a href="./1" class="btn btn-info" role="button">1</a>
+<a href="./2" class="btn btn-info" role="button">2</a>
+<a href="./3" class="btn btn-info" role="button">3</a>
 <a href="#" class="btn btn-info" role="button">4</a>
-<button type="button" class="btn btn-primary">5</button>
-<button type="button" class="btn btn-primary">6</button>
-<button type="button" class="btn btn-primary">7</button>
-<button type="button" class="btn btn-primary">8</button>
-<button type="button" class="btn btn-primary">9</button>
-<button type="button" class="btn btn-primary">10</button>
-<button type="button" class="btn btn-primary">11</button>
-<button type="button" class="btn btn-primary">12</button>
-<button type="button" class="btn btn-primary">13</button>
-<button type="button" class="btn btn-primary">14</button>
-<button type="button" class="btn btn-primary">15</button>
-<button type="button" class="btn btn-primary">16</button>
-<button type="button" class="btn btn-primary">17</button>
+<a href="#" class="btn btn-info" role="button">5</a>
+<a href="#" class="btn btn-info" role="button">6</a>
+<a href="#" class="btn btn-info" role="button">7</a>
+<a href="#" class="btn btn-info" role="button">8</a>
+<a href="#" class="btn btn-info" role="button">9</a>
+<a href="#" class="btn btn-info" role="button">10</a>
+<a href="#" class="btn btn-info" role="button">11</a>
+<a href="#" class="btn btn-info" role="button">12</a>
+<a href="#" class="btn btn-info" role="button">13</a>
+<a href="#" class="btn btn-info" role="button">14</a>
+<a href="#" class="btn btn-info" role="button">15</a>
+<a href="#" class="btn btn-info" role="button">16</a>
+<a href="#" class="btn btn-info" role="button">17</a>
 
