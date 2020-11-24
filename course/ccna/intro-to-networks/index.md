@@ -13,10 +13,10 @@ title: Intro to Networking - Chapter Select
 </nav>
 
 Chapters: 
-<button type="button" class="btn btn-primary">1</button>
-<button type="button" class="btn btn-primary">2</button>
-<button type="button" class="btn btn-primary">3</button>
-<button type="button" class="btn btn-primary">4</button>
+<a href="#" class="btn btn-info" role="button">1</a>
+<a href="#" class="btn btn-info" role="button">2</a>
+<a href="#" class="btn btn-info" role="button">3</a>
+<a href="#" class="btn btn-info" role="button">4</a>
 <button type="button" class="btn btn-primary">5</button>
 <button type="button" class="btn btn-primary">6</button>
 <button type="button" class="btn btn-primary">7</button>
