@@ -1,16 +1,8 @@
 ---
 layout: page
 title: Switching, Networking, and Wireless - Chapter Select
+breadcrumb: Switching Networking and Wireless
 ---
-
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../../">Home</a></li>
-    <li class="breadcrumb-item"><a href="../../">Courses</a></li>
-    <li class="breadcrumb-item"><a href="../">CCNA</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Switching Networking and Wireless</li>
-  </ol>
-</nav>
 
 Chapters: 
 <a href="./1" class="btn btn-info" role="button">1</a>
