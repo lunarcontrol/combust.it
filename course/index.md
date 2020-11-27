@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Direcotry
+title: Course Directory
 ---
 
 <nav aria-label="breadcrumb">
