@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CCNA Course
+title: CCNA 200-301 Course
 ---
 
 <nav aria-label="breadcrumb">
