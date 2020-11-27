@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CCNA Course
+title: Chapter 1.0
+breadcrumb: 1.0
 ---
 
 Introduction
