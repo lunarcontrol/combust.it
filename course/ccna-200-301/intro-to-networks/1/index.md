@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CCNA Course - Intro to Networks - Chapter 1
+title: Chapter 1
 ---
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
