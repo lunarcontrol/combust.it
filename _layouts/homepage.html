@@ -55,13 +55,34 @@
 			    </div>
 		</header>
 		<section class="container content" id="content-area">
-			<h1 class="title">
-				{% if page.title %}{{ page.title }}{% endif %}
-			</h1>
-			<div class="block">
-				{{ content }}
-			</div>
-		</section>
+			<div class="row" >
+                <div class="col-md-2" id="left">
+                    <div class="panel panel-default shadowed">
+                        <div class="panel-heading">
+                            Menu
+                        </div>
+                        <div class="panel-body" id="left-body">
+                            
+                            
+                            
+                            <div class='sbar'><li><a class='tab' href='#'>#</a></li></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-10" id="right" class="royce">
+                    <div class="panel panel-default shadowed">
+                        <div class="panel-heading"><h1 class="panel-title title"><span id="pageTitle">{% if page.title %}{{ page.title }}{% endif %}</span></h1>
+                        </div>
+                        <div class="panel-body">
+                     
+                            
+                           {{ content }}
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 		
 		{% include footer.html %}	<
 	</body>
