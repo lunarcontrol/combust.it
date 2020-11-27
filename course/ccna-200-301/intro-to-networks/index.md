@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chapter Select
+breadcrumb: Chapters
 ---
 
 <nav aria-label="breadcrumb">
