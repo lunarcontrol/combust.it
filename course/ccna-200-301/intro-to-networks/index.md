@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro to Networking - Chapter Select
+title: Chapter Select
 ---
 
 <nav aria-label="breadcrumb">
