@@ -4,14 +4,6 @@ title: CCNA 200-301 Course
 breadcrumb: CCNA 200-301
 ---
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../">Home</a></li>
-    <li class="breadcrumb-item"><a href="../">Courses</a></li>
-    <li class="breadcrumb-item active" aria-current="page">CCNA</li>
-  </ol>
-</nav>
-
 This is a stub of the CCNA course
 
 This course is split into 3 mini courses.
