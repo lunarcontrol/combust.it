@@ -4,15 +4,6 @@ title: Chapter Select
 breadcrumb: Chapters
 ---
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../../">Home</a></li>
-    <li class="breadcrumb-item"><a href="../../">Courses</a></li>
-    <li class="breadcrumb-item"><a href="../">CCNA</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Intro to Networks</li>
-  </ol>
-</nav>
-
 Chapters: 
 <a href="./1" class="btn btn-info" role="button">1</a>
 <a href="./2" class="btn btn-info" role="button">2</a>
